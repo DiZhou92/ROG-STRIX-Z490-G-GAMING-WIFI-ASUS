@@ -9,7 +9,9 @@
 - hard drive:Crucial MX500 1TB
 
 
+# TODO List
 
-[] - fix wifi
-[] - remap USB
-[] - ... 
+- [ ] fix wifi
+- [ ] remap USB
+- [ ] ...
+
