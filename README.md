@@ -15,3 +15,7 @@
 - [ ] remap USB
 - [ ] ...
 
+# Reference:
+
+- https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#booter
+- https://github.com/ic005k/OCAuxiliaryTools
