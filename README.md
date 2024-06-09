@@ -7,3 +7,9 @@
 - networkcard: fenvi T919
 - memory:Corsair Vengeance LPX 32 GB
 - hard drive:Crucial MX500 1TB
+
+
+
+[] - fix wifi
+[] - remap USB
+[] - ... 
